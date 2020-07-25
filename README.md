@@ -2,7 +2,7 @@
 <a href="https://dscvit.com">
 	<img src="https://user-images.githubusercontent.com/30529572/72455010-fb38d400-37e7-11ea-9c1e-8cdeb5f5906e.png" />
 </a>
-	<h2 align="center"> < Insert Project Title Here > </h2>
+	<h2 align="center"> github-org-dashboard20 </h2>
 	<h4 align="center"> < Insert Project Description Here > <h4>
 </p>
 
@@ -66,10 +66,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 <td>
 
-John Doe
+Ananya Ganesh
 
 <p align="center">
-<img src = "https://dscvit.com/images/dsc-logo-square.svg" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://avatars1.githubusercontent.com/u/43914142?s=400&u=8c195e8b7489f4313637cfd65c5d8bc7a97d4777&v=4" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/person1"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -79,21 +79,6 @@ John Doe
 </p>
 </td>
 
-
-<td>
-
-John Doe
-
-<p align="center">
-<img src = "https://dscvit.com/images/dsc-logo-square.svg" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
-<a href = "https://github.com/person3"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/person3">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
 </tr>
   </table>
   
